@@ -1,0 +1,13 @@
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.exe
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.deps.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.runtimeconfig.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.runtimeconfig.dev.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\bin\Debug\netcoreapp3.1\ExercicioDelegates.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.csprojAssemblyReference.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.AssemblyInfoInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.AssemblyInfo.cs
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioDelegates\ExercicioDelegates\obj\Debug\netcoreapp3.1\ExercicioDelegates.genruntimeconfig.cache
